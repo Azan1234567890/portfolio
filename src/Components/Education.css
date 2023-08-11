@@ -1,0 +1,31 @@
+.education h1{
+  margin-left: 15px;
+
+}
+.para-heading{
+    margin-left: 20px;
+    font-size: 20px;
+   
+}
+.education-para{
+    border: 1px solid white;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.education-para p{
+    font-size: 15px;
+    margin-left: 20px;
+   
+
+}
+
+.date{
+    max-width: 100%;
+    /* border: 1px solid white; */
+    display: flex;
+    flex-direction: row;
+    
+}
+.date p{
+    margin-left: 500px;
+}
